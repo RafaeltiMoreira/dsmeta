@@ -6,7 +6,6 @@
 - Java com API REST e Spring Boot
 - HTML
 - CSS
-- JavaScript
 - ReactJS
 - TypeScript
 - Postman
